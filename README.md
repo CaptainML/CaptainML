@@ -1,7 +1,8 @@
-## Hi there 👋
+## Miss my Kaggle account, can verify via GitHub—Kaggle support, please help! 😢
+
+<img width="775" alt="image" src="https://github.com/user-attachments/assets/8233684c-95e2-4150-a188-ebb690393e27" />
 
 <!--
-**CaptainML/CaptainML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
